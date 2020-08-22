@@ -12,6 +12,7 @@ _site/
 .jekyll
 Gemfile
 Gemfile.lock
+.jekyll-cache
 
 # Numerous always-ignore extensions
 *.diff
