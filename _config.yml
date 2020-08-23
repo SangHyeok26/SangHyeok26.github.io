@@ -39,6 +39,10 @@ author:
 nav:
   Home:           
     - '/'
+  TODAY I LEARNED:
+    - '/TIL/'
+    - { Categories: '/TIL/categories/'}
+    - { Tags: '/TIL/tags/'}
   Blog:           
     - '/blog/'
     - { Categories: '/blog/categories/' }
