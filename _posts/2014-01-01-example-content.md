@@ -2,7 +2,8 @@
 layout: post
 title: Example content
 comments: true
-category: Misc
+category: blog
+tag: jekyll
 ---
 
 
