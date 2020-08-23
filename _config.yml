@@ -39,11 +39,13 @@ author:
 nav:
   Home:           
     - '/'
+  TODAY I LEARNED:
+    - '/TIL/'
+    -{ Categories: '/til/'}
   Blog:           
-    - '/'
+    - '/blog/'
     - { Categories: '/blog/categories/' }
     - { Tags: '/blog/tags/' }
-    - { Jekyll: /blog/categoryies/#Jekyll'}
   About:          
     - '/about/'
   Github Project: 
