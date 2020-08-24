@@ -23,7 +23,7 @@ https://[자신의 아이디].github.io가 된다
 
 
 ## 2. index.html 파일 생성
-<img src="{{site.url}}/public/imgs/create_new_file1.JPG" class="img">  
+<img src="{{site.url}}/public/imgs/create_new_file1.jpg" class="img">  
 
  + 레포지터리를 생성했으면 위와 같은 화면이 나오면 생성 된것이다.
   위에 사진에 있는 빨간박스 (create a new file)버튼을 눌러 파일을 생성한다.  
