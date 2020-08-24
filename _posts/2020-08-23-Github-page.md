@@ -2,7 +2,7 @@
 layout: post
 title:  깃헙페이지(블로그) 만들기
 comments: true
-category: github
+category: Blog
 tags: github.io github
 ---
 
