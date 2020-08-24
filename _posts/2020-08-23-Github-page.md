@@ -43,7 +43,7 @@ https://[자신의 아이디].github.io가 된다
 
   + 여기서 위 사진과 같이 브랜치를 master 설정해주고 save버튼을 눌러준다.  
 
-  ![Image Alt 텍스트]({{site.url}}/public/imgs/setting_github_page3.JPG)
+  ![Image Alt 텍스트]({{site.url}}/public/imgs/setting_github_page3.jpg)
   + 버튼을 누르면 위와 같이 url이 뜨고 눌러 url주소로 이동해준다  
 
   ![Image Alt 텍스트]({{site.url}}/public/imgs/setting_github_page4.JPG)
