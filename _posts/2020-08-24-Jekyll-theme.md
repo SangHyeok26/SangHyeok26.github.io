@@ -30,7 +30,8 @@ jekyll 테마를 깃헙페이지에 적용시키는 방법을 알아 보겠습�
 ```  
 <img src="https://switch-coder.github.io/public/imgs/jekyll_install2.jpg" class="img">   
 
- + 이제 jekyll을 설치한다  
+ + 이제 jekyll을 설치한다   
+
 
  ```java
 
@@ -44,7 +45,8 @@ jekyll 테마를 깃헙페이지에 적용시키는 방법을 알아 보겠습�
     jekyll serve
     // Server address: http://127.0.0.1:4000/
 
- ```   
+ ```    
+
 
  + 여기까지 완료 됐으면 크롬에 http://127.0.0.1:4000/ 입력해 들어가본다
 
@@ -63,7 +65,8 @@ jekyll 테마를 깃헙페이지에 적용시키는 방법을 알아 보겠습�
 
 + 본이이 원하는 테마를 찾았다면 다운 받고 압축을 풀어준 후 아까 clone한 폴더에 풀어준 내용물들을 넣어준다.  
 
-+ 그러면 아래와 같이 보인다면 이제 거의 끝났다.  
++ 그러면 아래와 같이 보인다면 이제 거의 끝났다.   
+
 <img src="https://switch-coder.github.io/public/imgs/jekyll_theme3.JPG" class="img">    
 
 + 깃허브에 올리기 전 .gitignore , _config.yml 파일을 수정해줘야 한다
@@ -89,7 +92,8 @@ Gemfile.lock
 + _config.yml 파일에는 위에 빨간 동그라미안에 true 에서 false 로 사진과 같이 변경해주면 된다
 
 + 추가하고 저장했으면 
-+ 다시 터미널로 돌아가 코드를 입력해준다
++ 다시 터미널로 돌아가 코드를 입력해준다  
+
 ```t
     git add *
     
