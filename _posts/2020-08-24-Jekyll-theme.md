@@ -3,7 +3,7 @@ layout: post
 title:  깃허브 페이지에 Jekyll 테마 적용시기키
 comments: true
 category: Blog
-tags: jekyll github.io github
+tags: jekyll theme github.io github
 ---
 
 jekyll 테마를 깃헙페이지에 적용시키는 방법을 알아 보겠습니다.  
@@ -95,6 +95,7 @@ Gemfile.lock
 + 추가하고 저장했으면 
 + 다시 터미널로 돌아가 코드를 입력해준다  
 
+
 ```t
     git add *
     
@@ -111,3 +112,5 @@ Gemfile.lock
 + 여기까지 jekyll 설치와 테마적용 방법에 대해 알아봤다.  
 
 
+ 수정 확인
+ 
